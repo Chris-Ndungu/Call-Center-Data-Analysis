@@ -1,6 +1,6 @@
 
 <h1 align='center'>Call Center Dashboard </h1> 
-![Call Center Dashboard](<call center.jpg>)
+![Call Center Dashboard](Images/call center.jpg)
 
  **NB: This is a virtual internship project offered by PWC through [Forage](theforage.com).**
 
